@@ -1,2 +1,2 @@
 # Object-oriented programming
-My works for Object-oriented programming course's labworks at my university
+These are the assignments of the course Object-oriented programming of my university.
